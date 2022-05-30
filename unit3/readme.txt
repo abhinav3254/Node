@@ -29,3 +29,9 @@ undefined that means that this statement doesn't return anything.
 
 
 *************************************************
+
+
+*************************************************
+
+Topic 2 is done inside folder name unit 3 and under file name index.js
+
