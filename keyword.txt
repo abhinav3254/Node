@@ -1,0 +1,7 @@
+
+30 May 2022
+
+NPM in nodes js simply means Node Package Manager.
+
+To check Node version using cmd we have to type node -v
+To check the npm version in cmd we have to type npm -v
