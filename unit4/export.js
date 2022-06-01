@@ -3,6 +3,11 @@
 
 module.exports = {
     x: 10,
-    y: 20
+    y: 20,
     // Note here we have used : colon because this is an object we can't use = here
+
+    z: function () {
+        return 9999;
+    }
+
 }
