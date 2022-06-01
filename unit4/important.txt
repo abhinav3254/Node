@@ -24,12 +24,14 @@ here output will be same
 
 but if we change things little bit
 
-var x = "20"
+var x = 20;
+
+if (x == 20) {
+    console.log("Values are same but type isn't it")
+}
 
 if (x === 20) {
-    console.log("Same and Type also same")
-} else {
-    console.log("Types are not same")
+    console.log("Value and type are same")
 }
 
 This is the major difference between == and ===

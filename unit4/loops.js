@@ -22,3 +22,15 @@ if (name = "abhinav") {
 } else {
     console.log("Can't Access")
 }
+
+// Difference between == and ===
+
+var x = '20';
+
+if (x == 20) {
+    console.log("Values are same but type isn't")
+}
+
+if (x === 20) {
+    console.log("Value and type are same")
+}
