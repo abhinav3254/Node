@@ -1,0 +1,35 @@
+
+
+
+Here one of the important difference between == and ===
+
+==
+
+only values are checked , their types are not checked
+
+===
+
+here value and type are also checked
+
+
+example
+
+var x = 20
+
+if(x == 20) {
+    console.log("same")
+}
+
+here output will be same
+
+but if we change things little bit
+
+var x = "20"
+
+if (x === 20) {
+    console.log("Same and Type also same")
+} else {
+    console.log("Types are not same")
+}
+
+This is the major difference between == and ===
