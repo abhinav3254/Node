@@ -17,3 +17,7 @@ fs.writeFileSync("hello.txt", "Hello this is Abhinav Kumar learning Node js");
 // This has create a file named hello.txt in which we have written the text hello this.......
 // This is an example of non-global module
 
+console.log("directory name is :- >>>>>  ", __dirname);
+
+console.log("file name is :- >>>> ", __filename);
+
